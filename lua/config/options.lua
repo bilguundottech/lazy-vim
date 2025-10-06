@@ -5,3 +5,4 @@ vim.opt.relativenumber = true
 vim.opt.clipboard = "unnamedplus"
 vim.opt.conceallevel = 0
 vim.opt.concealcursor = ""
+vim.g.lazyvim_python_lsp = "mypy"
